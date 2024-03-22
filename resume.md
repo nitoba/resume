@@ -33,7 +33,7 @@ I'm **FullStack Developer**. My goal is to acquire new skills that will improve 
 
 - Flutter: integration with Api-Rest.
 
-**Back-End**: Node (ExpressJs: Image upload, MongoDB integration using mongoose, use of SocketIO. NestJs: TypeOrm, Docker)
+**Back-End**: Node (ExpressJs: Image upload, MongoDB integration using mongoose, use of SocketIO. NestJs: TypeOrm, Prisma, Docker)
 
 **Controle de Versionamento**: GIT
 
